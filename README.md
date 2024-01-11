@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mohammed1947.
 - 👀 I’m interested in Python Coding, APIs, Computer Vision and Back-End Development.
-- 🌱 I’m Computer Engineering M.S.c Student.
-- 💞️ I’m looking to collaborate on Python Projects, AI, Computer Vision and Back-End Development.
+- 🌱 I’m Computer Engineer & M.S.c Student.
+- :rocket: I’m looking to collaborate on Python Projects, AI, Computer Vision, and Back-End Development.
 - 📫 Feel Free To Reach me anytime on my email "m.b.mohammed4747@gmail.com"
