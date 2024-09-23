@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mohammed1947.
-- 👀 I’m interested in Python Coding, APIs, Computer Vision and Back-End Development.
+- 👀 I’m interested in My research interests encompass the fields of computer vision, deep learning, artificial intelligence, face recognition, medical imaging, Python Coding, and APIs.
 - 🌱 I’m Computer Engineer & M.S.c Student.
-- :rocket: I’m looking to collaborate on Python Projects, AI, Computer Vision, and Back-End Development.
+- :rocket: I’m looking to collaborate on computer vision, deep learning, and artificial intelligence.
 - 📫 Feel Free To Reach me anytime on my email "m.b.mohammed4747@gmail.com"
